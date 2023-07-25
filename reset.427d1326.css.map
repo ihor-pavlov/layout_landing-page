@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles\\reset.scss"],"names":[],"mappings":"AAAA,6GAsBE,QAAS,CACT,SAAU","file":"reset.427d1326.css","sourceRoot":"..\\src","sourcesContent":["body,\nheader,\nmain,\nfooter,\naside,\nnav,\nul,\nli,\nsection,\narticle,\nh1,\nh2,\nh3,\ndiv,\np,\nspan,\na,\nimg,\nbutton,\nform,\ninput,\ntextarea {\n  margin: 0;\n  padding: 0;\n}\n"]}
